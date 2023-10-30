@@ -1,6 +1,6 @@
 import { getGreeting } from '../support/app.po';
 
-describe('unicorn-e2e', () => {
+describe('pokedex-e2e', () => {
   beforeEach(() => cy.visit('/'));
 
   it('should display welcome message', () => {

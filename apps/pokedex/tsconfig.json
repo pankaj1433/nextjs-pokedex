@@ -23,8 +23,8 @@
     "**/*.tsx",
     "**/*.js",
     "**/*.jsx",
-    "../../apps/unicorn/.next/types/**/*.ts",
-    "../../dist/apps/unicorn/.next/types/**/*.ts",
+    "../../apps/pokedex/.next/types/**/*.ts",
+    "../../dist/apps/pokedex/.next/types/**/*.ts",
     "next-env.d.ts"
   ],
   "exclude": [
